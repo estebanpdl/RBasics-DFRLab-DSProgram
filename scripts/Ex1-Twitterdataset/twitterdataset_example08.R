@@ -1,4 +1,5 @@
 # === Creating a small bar chart ===
+
 data %>%
   group_by(is.retweet.fixed) %>%
   summarize(counter = n()) %>%
