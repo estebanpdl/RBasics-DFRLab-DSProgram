@@ -1,0 +1,11 @@
+# Settings
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Project
+*.Rproj
+
+# logs
+log.txt
