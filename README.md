@@ -1,4 +1,16 @@
+<div align="center">
+
 # R Basics / DFRLab - Digitalsherlocks Program
+
+
+[![GitHub forks](https://img.shields.io/github/forks/estebanpdl/RBasics-DFRLab-DSProgram.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/estebanpdl/RBasics-DFRLab-DSProgram/network/)
+[![GitHub stars](https://badgen.net/github/stars/estebanpdl/RBasics-DFRLab-DSProgram)](https://GitHub.com/estebanpdl/RBasics-DFRLab-DSProgram/stargazers/)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://twitter.com/estebanpdl)
+[![Twitter estebanpdl](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/estebanpdl)
+
+---
+
+</div>
 
 Welcome to our R Basics workshop repository! This repository is part of DFRLab's digitalsherlocks program and is designed to help you get started with R programming. Here you'll find a collection of code snippets that cover the basics of reading datasets, scraping websites, and working with APIs using R.
 
@@ -14,7 +26,7 @@ To get started, clone or download the repository to your local machine. Then, na
 <br />
 
 ```R
-usethis::use_course("https://github.com/estebanpdl/360-Digitalsherlocks-R-Basics/archive/refs/heads/main.zip")
+usethis::use_course("https://github.com/estebanpdl/RBasics-DFRLab-DSProgram.git")
 ```
 
 *This command will open another RStudio instance with the materials.*
@@ -63,3 +75,8 @@ install.packages("tidyverse")
 install.packages("rvest")
 install.packages("httr")
 ```
+
+## Disclaimer
+
+This repository is intended for educational and pedagogical purposes only. The code snippets provided here are meant to help users learn and experiment with R programming.
+
