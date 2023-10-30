@@ -1,7 +1,16 @@
-# Install and Import Rvest / urltools library
+# ========================= #
+#     install packages      #
+# ========================= #
 
 # install.packages("rvest")
 # install.packages('urltools')
+
+
+
+# ========================= #
+#     import libraries      #
+# ========================= #
+
 library(rvest)
 library(urltools)
 
@@ -21,3 +30,4 @@ df_attrs$domain <- domain(df_attrs$attrs)
 
 # Save attrs
 write.csv(df_attrs, "data/onpress_links.csv", fileEncoding = "UTF-8")
+

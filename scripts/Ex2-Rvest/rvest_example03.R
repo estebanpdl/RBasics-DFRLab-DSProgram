@@ -1,6 +1,7 @@
-# Install and Import Rvest library
+# ========================= #
+#     import libraries      #
+# ========================= #
 
-# install.packages("rvest")
 library(rvest)
 
 # Read URL
@@ -12,11 +13,13 @@ content <- url %>% html_elements("article") %>%
 
 # iterate each < a > element
 for (i in 1:length(content)) {
-    # read url
+    # Extract url
     href <- html_attr(content[[i]], name = "href")
+    
+    # Read HTML source
     tmp <- read_html(href)
 
-    # get text from < p > elements
+    # Get text from < p > HTML elements
     text <- tmp %>% html_elements("p") %>%
       html_text()
     

@@ -1,7 +1,15 @@
-# Install packages
+# ========================= #
+#     install packages      #
+# ========================= #
+
 # install.packages('tidyverse')
 
-# Import
+
+
+# ========================= #
+#     import libraries      #
+# ========================= #
+
 library(tidyverse)
 
 # Creating a new column based on one condition

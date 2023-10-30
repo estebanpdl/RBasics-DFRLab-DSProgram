@@ -1,4 +1,7 @@
-# Load the jsonlite package
+# ========================= #
+#     import libraries      #
+# ========================= #
+
 library(jsonlite)
 
 # read response

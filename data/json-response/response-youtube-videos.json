@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "GIrXFqyID0qEB4sinZYRJHxzVPg",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "CO",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XkechcKP_XbCkJNYSWfkcMw-dS8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1wfmV0qOQow"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-18T03:02:42Z",
+        "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+        "title": "Who is the leader of Hamas in Gaza?",
+        "description": "Yayha Sinwar is said to be the one Arab leader central to the Israel-Hamas war and the release of the hostages. He is also a key ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1wfmV0qOQow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1wfmV0qOQow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1wfmV0qOQow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-18T03:02:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "T4bwIjxSR0XAJscj93jGjNqyjMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xTHV_9KHs8Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-10T02:00:18Z",
+        "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+        "title": "How Hamas won and kept control in Gaza",
+        "description": "CNN's Sam Kiley looks back at how Hamas organized and took political control inside Gaza. Then, CNN's Anderson Cooper ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xTHV_9KHs8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xTHV_9KHs8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xTHV_9KHs8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-10T02:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hjtntXmruOZkVeiezaADT7r__ro",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TOJeIpytnbo"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-30T07:48:40Z",
+        "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+        "title": "Israel-Hamas war latest: Ground battles intensify",
+        "description": "We've just heard from Israeli Prime Minister Benjamin Netanyahu, but we're now listening to the families of three women that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TOJeIpytnbo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TOJeIpytnbo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TOJeIpytnbo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sky News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-10-30T07:48:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K7UEnXSbQDwqsiAqxI4f8AQ2HeI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VZ4ruk3KO48"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-09T15:30:07Z",
+        "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+        "title": "Israel-Gaza conflict: What is Hamas? - BBC News",
+        "description": "Hamas is a Palestinian Islamist militant group which rules the Gaza Strip. Hamas is sworn to Israel's destruction and has fought ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VZ4ruk3KO48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VZ4ruk3KO48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VZ4ruk3KO48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-09T15:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gQzPwqwSOOZaUHW6siINSsW_Suw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KjhMAMAPgeM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-08T04:06:50Z",
+        "channelId": "UCK7tptUDHh-RYDsdxO1-5QQ",
+        "title": "How the Hamas Attack on Israel Unfolded | WSJ",
+        "description": "Hamas militants breached Israeli checkpoint locations along the border with Gaza, neutralizing Israeli forces, and allowing Hamas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KjhMAMAPgeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KjhMAMAPgeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KjhMAMAPgeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Wall Street Journal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-08T04:06:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TTYUk7tgwY7JRiStywlu4vW5G4M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gsNh4WZU8bQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-16T23:30:06Z",
+        "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+        "title": "Hamas releases first video of hostage held inside Gaza",
+        "description": "In the video released by Hamas, 21-year-old Miya Shem says she's being given medical care and asks to go home as soon as ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gsNh4WZU8bQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gsNh4WZU8bQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gsNh4WZU8bQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-16T23:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wM7-eqDlPM51uuHnO6vDL_rg4vo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y5vvPbXDUT8"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-09T15:04:06Z",
+        "channelId": "UC7QZIf0dta-XPXsp9Hv4dTw",
+        "title": "ISRAEL-GAZA: ¿QUÉ es HAMÁS? ¿CUÁL es SU HISTORIA? ¿DESDE CUÁNDO GOBIERNA la FRANJA de GAZA? | RTVE",
+        "description": "El poder de Hamás se empezó a fraguar en 2005 tras la retirada de Israel de la Franja de Gaza. Un año después hubo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y5vvPbXDUT8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y5vvPbXDUT8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y5vvPbXDUT8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RTVE Noticias",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-09T15:04:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P6abD2xKfemgvqLIAxc6SOEpInc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Bxf45Lo34fQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-29T06:27:31Z",
+        "channelId": "UCm7lHFkt2yB_WzL67aruVBQ",
+        "title": "Hamas&#39; Qassam Brigades Mocks Arab Nations; Sends This Video Message | Gaza War",
+        "description": "Palestinian militant group Hamas criticised Arab nations for failing to provide aid to war-hit Gaza amid Israel's relentless ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bxf45Lo34fQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bxf45Lo34fQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bxf45Lo34fQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hindustan Times",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-29T06:27:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hEoKS8GdrX-hSDNWK38dyPAit-Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "guv9w9NpqOs"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-10T13:51:12Z",
+        "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+        "title": "What is Hamas? The Gaza militant group behind surprise attack on Israel | ABC News",
+        "description": "Hamas de facto seized Gaza — also known as the Gaza Strip, one of the two major Palestinian territories — following election ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/guv9w9NpqOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/guv9w9NpqOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/guv9w9NpqOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-10T13:51:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lFDeZZy80XleGXiL1HgCsCjbpnY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d2PguJV7l24"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-13T22:00:30Z",
+        "channelId": "UCV3Nm3T-XAgVhKH9jT0ViRg",
+        "title": "Why Hamas Attacked Israel - And What&#39;s Next For Gaza",
+        "description": "On October 7th, Hamas launched one of the deadliest attacks on Israel in years. But why? And what does this mean for the 2.3 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d2PguJV7l24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d2PguJV7l24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d2PguJV7l24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AJ+",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-13T22:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IjlHXFpsWpECXOdCiulip94uWTc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sE5Qp40GwJA"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-28T06:44:31Z",
+        "channelId": "UC_gUM8rL-Lrg6O3adPW9K1g",
+        "title": "Israel-Palestine War LIVE: US strikes on Syria are message to Iran not to escalate Gaza conflict",
+        "description": "Strikes the United States says it carried out on Iranian targets in Syrian are meant to send a signal to Tehran that the Biden ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sE5Qp40GwJA/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sE5Qp40GwJA/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sE5Qp40GwJA/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WION",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-10-28T06:44:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YtzcF0ltSwhnYhuFtHqwoGwuEHg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CGzChSnlEkM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-28T18:34:57Z",
+        "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
+        "title": "Israel troops and tanks fight Hamas in streets as airstrikes pound Gaza",
+        "description": "Gazans are cut off from the world and also each other, under a total siege and a communications blackout as the war enters a new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CGzChSnlEkM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CGzChSnlEkM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CGzChSnlEkM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Channel 4 News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-28T18:34:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xlDFjwjUt4f3WUsnzRIXMNEJ9JE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u_8pzNuqdLg"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-25T01:57:42Z",
+        "channelId": "UCKjU3KzdbJE1EFcHVqXC3_g",
+        "title": "How Hamas uses its labyrinth of tunnels in Gaza",
+        "description": "Hamas uses an elaborate network of tunnels for everything from storage to staging attacks, and they pose a big challenge for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u_8pzNuqdLg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u_8pzNuqdLg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u_8pzNuqdLg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CBC News: The National",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-25T01:57:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KHyT5oBrWHS29_rF-eWhDpAhX_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6zRp0VaaMDA"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-08T15:30:06Z",
+        "channelId": "UCPgLNge0xqQHWM5B5EFH9Cg",
+        "title": "Israeli rave goers run for their lives when Hamas paraglide in and start shooting",
+        "description": "The sun had just risen over Israel's Negev desert, and at the all-night outdoor rave at Kibbutz Re'im, the party was still going.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6zRp0VaaMDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6zRp0VaaMDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6zRp0VaaMDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Telegraph",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-08T15:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D0vJuo4Ry7dhAhNjgDm9FdNps8I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E8DwCl5uEL8"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T06:26:39Z",
+        "channelId": "UCK7tptUDHh-RYDsdxO1-5QQ",
+        "title": "How Hamas Turned an Israeli Music Festival Into a Massacre | WSJ",
+        "description": "Over 250 people were killed at the Tribe of Nova Festival in Re'im, Israel on Saturday – one of the deadliest sites of Hamas's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E8DwCl5uEL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E8DwCl5uEL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E8DwCl5uEL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Wall Street Journal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T06:26:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d99xAfIqQ6wkr9_tEJvB0uv80gE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ASiHh2BU_nM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T18:30:08Z",
+        "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+        "title": "Tears and terror as Hamas rockets hit Israeli town of Ashkelon",
+        "description": "Video shows local residents crying and huddling beside a wall as rockets fired from Gaza explode around them in Ashkelon, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ASiHh2BU_nM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ASiHh2BU_nM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ASiHh2BU_nM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T18:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yE7h22jwF2IRzqWv2lWclA0JyI0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U7WP0C0jYl8"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-14T19:00:17Z",
+        "channelId": "UCEuiOszNd6msGgqsD0f9YAQ",
+        "title": "How Does Israel Handle HAMAS&#39; Tunnel Network in Gaza?",
+        "description": "Since 2007, Hamas has built over 1300 tunnels in Gaza, some reaching depths of 30-40 meters, to protect their elements and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U7WP0C0jYl8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U7WP0C0jYl8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U7WP0C0jYl8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Interesting Engineering",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-14T19:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kSCAfTnhJ4TuR04glfsg89MHWm8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "REWfM4gVtow"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-07T17:30:03Z",
+        "channelId": "UCz8QaiQxApLq8sLNcszYyJw",
+        "title": "How Hamas Was Formed and Which Nations Support the Terror Group? | Vantage with Palki Sharma",
+        "description": "How Hamas Was Formed and Which Nations Support the Terror Group? | Vantage with Palki Sharma Hamas launched ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/REWfM4gVtow/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/REWfM4gVtow/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/REWfM4gVtow/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Firstpost",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-07T17:30:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9n-HfhteyxhHH9FWBawUIZD4S5Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PqR1IFz5da8"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-20T21:25:01Z",
+        "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
+        "title": "Israel-Hamas war: People in Gaza endure Israeli attacks as they wait for aid | DW News",
+        "description": "For days, Cargo planes and trucks have been bringing humanitarian aid to Rafah, a city in Egypt near the Gaza Strip, but so far, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PqR1IFz5da8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PqR1IFz5da8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PqR1IFz5da8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DW News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-20T21:25:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sMhhQ2Rm4Y5G_h7kM9sHafIUvAA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r_e1ytlC5Vo"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-09T14:58:32Z",
+        "channelId": "UCK7tptUDHh-RYDsdxO1-5QQ",
+        "title": "Iran Supported Hamas in Attack Against Israel | WSJ",
+        "description": "More than 1100 people have died after the Hamas militant group launched a surprise attack on Israel over the weekend. Iranian ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r_e1ytlC5Vo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r_e1ytlC5Vo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r_e1ytlC5Vo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Wall Street Journal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-09T14:58:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SeizHwtcMxEtUVGNBwNydo-jdsM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eeQDv8QlHZk"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-21T09:27:24Z",
+        "channelId": "UC6RJ7-PaXg6TIH2BzZfTV7w",
+        "title": "Israel War Coverage Live |How Hamas Missile Barrage Broke The Iron Dome And Rained Rockets In Israel",
+        "description": "Israel War Coverage Live | As per the latest news on Times Now, Israel has formally declared war on the militant group Hamas, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eeQDv8QlHZk/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eeQDv8QlHZk/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eeQDv8QlHZk/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TIMES NOW",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-10-21T09:27:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tghjd_iSL6yjDxzHgLGm-aNgxxo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iRYZjOuUnlU"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-20T18:05:31Z",
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "title": "The Israel-Palestine conflict: a brief, simple history",
+        "description": "The conflict is really only 100 years old. Subscribe to our channel! http://goo.gl/0bsAjO One of the biggest myths about the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iRYZjOuUnlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iRYZjOuUnlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iRYZjOuUnlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vox",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-20T18:05:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NILgc3Kx_rL21gL-Rho_OL2_ex8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zsNj8DiJv-A"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-09T08:02:27Z",
+        "channelId": "UCVgO39Bk5sMo66-6o6Spn6Q",
+        "title": "The origins of the Hamas-Israel war explained | ABC News",
+        "description": "The current conflict between Israel and Hamas has been decades in the making. But what is the history behind the fighting?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zsNj8DiJv-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zsNj8DiJv-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zsNj8DiJv-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC News (Australia)",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-09T08:02:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TnJsZgIJWfhxlDAVQxh2ENkhXrM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GoyBX-ZFwWM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-08T03:45:03Z",
+        "channelId": "UC_lEiu6917IJz03TnntWUaQ",
+        "title": "Resumen en video del conflicto Israel - Gaza : 07 de octubre de 2023",
+        "description": "Durante los ataques de Hamas en Israel, varios israelíes fueron capturados. Hamas afirma que el número de prisioneros es ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GoyBX-ZFwWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GoyBX-ZFwWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GoyBX-ZFwWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNN en Español",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-08T03:45:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "09A63JceKy3cewUrbsoC4Addpbk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vYfpIPc7kqE"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-12T10:44:36Z",
+        "channelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+        "title": "Hamas says ‘not afraid’ of Israeli ground troops’ deployment",
+        "description": "A Hamas leader has told Al Jazeera that the group is prepared for any potential deployment of Israeli troops inside Gaza amid ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vYfpIPc7kqE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vYfpIPc7kqE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vYfpIPc7kqE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Al Jazeera English",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-12T10:44:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UFcmgnBYm22klcqHm3l57zDBxWA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vHaHzr5M7gk"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-12T14:45:03Z",
+        "channelId": "UCw3fku0sH3qA3c3pZeJwdAw",
+        "title": "Moment Israeli border police eliminate Hamas terrorist near Gaza in shootout",
+        "description": "This is the moment Israeli border police eliminated a Hamas terrorist near Gaza. Drone footage captured the shoot-out early ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vHaHzr5M7gk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vHaHzr5M7gk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vHaHzr5M7gk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daily Mail",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-12T14:45:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3EPyY9cBm8ahIfnCsqfJvtYczBM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ndqjS_QYtU0"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-26T10:30:26Z",
+        "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+        "title": "Inside the network of Hamas tunnels under Gaza",
+        "description": "CNN's Nic Robertson looks at the \"Gaza metro,\" the network of tunnels Hamas has built under Gaza that it uses to move ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ndqjS_QYtU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ndqjS_QYtU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ndqjS_QYtU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-26T10:30:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yxhoPg5lXXIWfzxvNe8ymiQMGGc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TodXbRS3kmg"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-27T23:30:20Z",
+        "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+        "title": "Israel announces expanding ground operations against Hamas in Gaza",
+        "description": "Israel launched its most intense assault so far on Hamas in Gaza, striking with jets, tanks and artillery, and also cut off ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TodXbRS3kmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TodXbRS3kmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TodXbRS3kmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-27T23:30:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xbM7jeb2yEdI-xCPy_PtKU5muxg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vvu8R3Lg2wc"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-12T17:59:47Z",
+        "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
+        "title": "The underground tunnels of Gaza: Hamas&#39; tactical advantage",
+        "description": "The war between Israel and Hamas has seen weaponry of the most modern kind, lighting up the skies and leveling the landscape.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vvu8R3Lg2wc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vvu8R3Lg2wc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vvu8R3Lg2wc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Scripps News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-12T17:59:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PeLX-53sfOUFVPQDpNMUDppVOdI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W4gDfSNMRx4"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-07T19:00:07Z",
+        "channelId": "UCZaT_X_mc0BI-djXOlfhqWQ",
+        "title": "Inside the Hamas ‘Terror Tunnels’ Israel Has Been Bombing",
+        "description": "In May, war erupted between Israel and Hamas. VICE gains exclusive access to both sides of the conflict, venturing deep ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W4gDfSNMRx4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W4gDfSNMRx4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W4gDfSNMRx4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "VICE News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-07T19:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QJyqlpfZPcWNPH5VAnkmpxwFc7s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RU_5O_oE4KE"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-30T03:08:11Z",
+        "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+        "title": "LIVE: Gaza border with Israel",
+        "description": "View of the Gaza border, seen from Israel. #Israel #Hamas #Gaza #Palestinian #IsraelHamasWar #GazaWar #IsraelWar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RU_5O_oE4KE/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RU_5O_oE4KE/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RU_5O_oE4KE/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Reuters",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-10-30T03:08:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UE2MJsIGQLot2G3dyfdZI4yY0Do",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ch6EBOOADog"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T21:31:18Z",
+        "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+        "title": "Three hostages released from Gaza, Hamas claims",
+        "description": "Hamas' al-Qassam Brigades has released a video which appears to show the release of three hostages, Al Jazeera reports.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ch6EBOOADog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ch6EBOOADog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ch6EBOOADog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sky News Australia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T21:31:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DyldOB-7ru65rEIE15T6celVk58",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9RbPibdJxpM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-11T08:48:12Z",
+        "channelId": "UC7QZIf0dta-XPXsp9Hv4dTw",
+        "title": "ISRAEL-GAZA: El EJERCITO ISRAELÍ ataca 200 OBJETIVOS de HAMÁS durante la noche | RTVE",
+        "description": "Israel ha vuelto a bombardear sin descanso durante toda la noche. El ejército israelí afirma haber alcanzado hasta 200 objetivos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9RbPibdJxpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9RbPibdJxpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9RbPibdJxpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RTVE Noticias",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-11T08:48:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QvOn16tG3FjI0urIwXz8_A4HYk4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gZKxtQO_wCY"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-10T19:19:58Z",
+        "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
+        "title": "Children &#39;mercilessly&#39; killed by Hamas in Israel massacre - as Gaza is pummelled",
+        "description": "The unprecedented response promised by Israel in the wake of the weekend's atrocities has now well and truly clicked into gear.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gZKxtQO_wCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gZKxtQO_wCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gZKxtQO_wCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Channel 4 News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-10T19:19:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fJoEa9szJ0pdHed-Cdtlq0IJ4Gw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NImRfg-vE6Q"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-23T12:42:01Z",
+        "channelId": "UCzF4Ryn8TKn64md77gS5Q5Q",
+        "title": "Strikes on Gaza as Israel-Hamas war continues",
+        "description": "Israel is widely expected to launch a ground offensive in Gaza following Hamas' brutal Oct. 7 rampage into southern Israeli ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NImRfg-vE6Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NImRfg-vE6Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NImRfg-vE6Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "11Alive",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-23T12:42:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3Hxp6OVcsXWKxuKI6YBNs5FI5Sk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PHQYb9Qkpck"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-14T18:31:29Z",
+        "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
+        "title": "Israel forces prepare to strike Gaza from &#39;air, sea and land&#39;",
+        "description": "No power or fuel, no water coming out of the taps and food running dangerously low. The UN says the humanitarian situation in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PHQYb9Qkpck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PHQYb9Qkpck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PHQYb9Qkpck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Channel 4 News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-14T18:31:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ez869tnzzQD5J6y9pDzZGPApsZk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g2t_9Ehx5Wc"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-12T21:17:37Z",
+        "channelId": "UCUP6qv-_EIL0hwTsJaKYnvw",
+        "title": "Este fue el #ModusOperandi de Hamás contra civiles que vivían en Israel, cerca de Franja de Gaza",
+        "description": "EL MODUS OPERANDI DE HAMÁS El kibbutz de Be 'eri, situado a 2 kilómetros de la frontera con Gaza, fue uno de los primeros ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g2t_9Ehx5Wc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g2t_9Ehx5Wc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g2t_9Ehx5Wc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Azteca Noticias",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-12T21:17:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "--LRWZrQAWu9OxUt0LmBjdKQLCw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TSKTzwugEWg"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-21T15:00:07Z",
+        "channelId": "UCKop7_gs7xq5tbrDDYuplhA",
+        "title": "हैरान कर देगी इज़राइल की ताकत | Latest in Gaza | Hamas Israel War | Refugees of Gaza | RJ Raunac",
+        "description": "Download Probo & Earn Money:- https://probo-in.onelink.me/1kre/RJRaunac21Oct ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TSKTzwugEWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TSKTzwugEWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TSKTzwugEWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RJ Raunac",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-21T15:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C6W2kUAkSQ9YcbW5FJIS2i4phrk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LVsvU6cqzRo"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-10T10:00:30Z",
+        "channelId": "UCef1-8eOpJgud7szVPlZQAQ",
+        "title": "Israel Vs Hamas LIVE | Israel War Coverage | Israel vs Palestine Fighting | Gaza Under Siege | N18L",
+        "description": "Israel Vs Hamas LIVE | Israel War Coverage | Israel vs Palestine Fighting | Gaza Under Siege | N18L WHO 'deeply concerned' by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LVsvU6cqzRo/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LVsvU6cqzRo/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LVsvU6cqzRo/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNN-News18",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-10-10T10:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CBTg3wCU-Y7VqEYWOctmvREQu8s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KYVn9K5pLFA"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-27T18:28:07Z",
+        "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+        "title": "Israel-Hamas war: IDF says it is &#39;expanding&#39; ground activity in Gaza&#39;",
+        "description": "The Israel Defense Forces are expanding ground activity in Gaza Friday night, a military spokesperson told reporters. They've ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KYVn9K5pLFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KYVn9K5pLFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KYVn9K5pLFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ABC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-27T18:28:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GaMvKUtGQF30QdZmBy4BSoVZinQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qNbUrjHg2Cw"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-30T00:30:19Z",
+        "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+        "title": "Israel-Hamas war enters new phase as Israel expands offensive in Gaza",
+        "description": "The war between Israel and Hamas is entering a new phase, as Israeli Prime Minister Benjamin Netanyahu said the military is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qNbUrjHg2Cw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qNbUrjHg2Cw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qNbUrjHg2Cw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-30T00:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KVwF_1p1N-mYGBMwZJcIdM9eMCA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6FVUxvp6Ah0"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-07T23:00:04Z",
+        "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+        "title": "Video appears to show Hamas taking Israeli civilian hostage",
+        "description": "Video appears to show Palestinian militants taking an Israeli civilian hostage during the surprise Hamas attack on Israel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6FVUxvp6Ah0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6FVUxvp6Ah0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6FVUxvp6Ah0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NBC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-07T23:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l51zXyP2Ba5RooBmWEUCSLtD_LA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DTK04bjiWbQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-16T13:20:38Z",
+        "channelId": "UCPgLNge0xqQHWM5B5EFH9Cg",
+        "title": "Newly released footage shows moment Hamas stormed through border of Gaza into Israel",
+        "description": "A video posted on social media (released October 15, 2023) showed Hamas fighters crossing the Gaza border into Israel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DTK04bjiWbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DTK04bjiWbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DTK04bjiWbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Telegraph",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-16T13:20:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zv_mZu8v_dZvVMbva9gcJvpDQg4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fKImdLUTOhM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-26T19:20:36Z",
+        "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
+        "title": "Israel says senior Hamas leader killed, 250 targets attacked in Gaza raid",
+        "description": "As Israel continues to step up its relentless air attacks on Gaza, the IDF said it had attacked more than 250 targets during its brief ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fKImdLUTOhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fKImdLUTOhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fKImdLUTOhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Channel 4 News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-26T19:20:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mebCMRUpkG8Nit9IZzYZoR-OVnk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kBf3jm8OKyo"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-10T04:39:27Z",
+        "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+        "title": "Bombs rain down on Gaza as Hamas and Israel war escalates",
+        "description": "Airstrikes continued in the Gaza region on Monday as Israeli officials ordered a “complete siege” of the region following a surprise ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kBf3jm8OKyo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kBf3jm8OKyo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kBf3jm8OKyo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sky News Australia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-10T04:39:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NSCrsigbWJAdNSr8zVfTzNzb4hU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "brshMrB2Ido"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-19T11:07:14Z",
+        "channelId": "UCT4Jg8h03dD0iN3Pb5L0PMA",
+        "title": "Israel ataca posiciones de Hamás en Gaza",
+        "description": "El Ejército israelí aseguró haber destruido cientos de instalaciones el grupo islamista Hamás y haber matado a varios de sus ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/brshMrB2Ido/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/brshMrB2Ido/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/brshMrB2Ido/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DW Español",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-19T11:07:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NNiMIE1Sbk7wk_tEEDQ29Gafk1Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ka8WZu644YU"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-23T14:27:11Z",
+        "channelId": "UC-SJ6nODDmufqBzPBwCvYvQ",
+        "title": "Israeli troops prepare for ground invasion of Gaza to battle Hamas",
+        "description": "Troops from the Israel Defense Forces are preparing for a widely expected ground invasion of Gaza. Tony Dokoupil talks to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ka8WZu644YU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ka8WZu644YU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ka8WZu644YU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CBS Mornings",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-23T14:27:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rjAhvnFFF_zENBQ6ZY7sJZMiR34",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DwHI5PyoQmg"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-08T12:08:47Z",
+        "channelId": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+        "title": "Hamas attack on Israel: Rallies in support of Gaza in Tehran, Istanbul and Beirut • FRANCE 24",
+        "description": "In Iran, Turkey and Lebanon, hundreds of people took to the streets and gathered to support Gaza and celebrate the operation by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DwHI5PyoQmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DwHI5PyoQmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DwHI5PyoQmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FRANCE 24 English",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-08T12:08:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3UiksSNHN69921YFBpLsVOAr-Fc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xxU3WMtwJpU"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-20T17:10:12Z",
+        "channelId": "UCUBIrDsIVzRpKsClMlSlTpQ",
+        "title": "Qué es Hamás, el grupo militante palestino que controla Gaza y al que se enfrenta Israel | BBC Mundo",
+        "description": "Su nombre significa Movimiento de Resistencia Islámica y su origen se remonta a los primeros días de la Intifada palestina de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xxU3WMtwJpU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xxU3WMtwJpU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xxU3WMtwJpU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC News Mundo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-20T17:10:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q3RRqEPj6_rSo4qfcS7-XssItTQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gMA6DcHquEU"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-07T19:38:49Z",
+        "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
+        "title": "Group Of Palestinians In Gaza Strip Celebrates Hamas Attack On Israel",
+        "description": "Some Palestinians in the Gaza Strip celebrate the Hamas attack on Israel. Fuel your success with Forbes. Gain unlimited access ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gMA6DcHquEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gMA6DcHquEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gMA6DcHquEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Forbes Breaking News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-07T19:38:49Z"
+      }
+    }
+  ]
+}

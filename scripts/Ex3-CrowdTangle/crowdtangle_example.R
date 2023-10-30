@@ -1,6 +1,17 @@
-# import modules
+# ========================= #
+#     install packages      #
+# ========================= #
+
+# install.packages("tidyverse")
 # install.packages("xlsx")
 # install.packages("ini")
+
+
+
+# ========================= #
+#     import libraries      #
+# ========================= #
+
 library(dplyr)
 library(xlsx)
 library(ini)
@@ -132,13 +143,13 @@ for (i in 1:NROW(urls)) {
   Sys.sleep(10)
 }
 
-# Create a dataframe using url_datalist. do.call is not working
+# Create a dataframe using url_datalist
 dataset <- bind_rows(url_datalist)
 
 # save dataset XLSX format
 xlsx_file <- './data/crowdtangle_output.xlsx'
 
-# 2 specifies that as.character will be applied to each column of the dataset
+# Number `2` specifies that as.character will be applied to each column of the dataset
 dataset <- apply(dataset, 2, as.character)
 write.xlsx(dataset, file = xlsx_file)
 

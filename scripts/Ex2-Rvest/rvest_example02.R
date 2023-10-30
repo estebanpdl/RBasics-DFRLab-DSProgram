@@ -1,23 +1,22 @@
-# Install and Import Rvest library
+# ========================= #
+#     import libraries      #
+# ========================= #
 
-# install.packages("rvest")
 library(rvest)
 
 # Read URL
-rt <- read_html("https://actualidad.rt.com/")
+novaresistencia <- read_html("https://novaresistencia.org/")
 
 # Collect articles -> Inspect elements on website
-rt_articles <- rt %>% html_elements("article") %>%
+novaresistencia_articles <- novaresistencia %>%
+  html_elements("h2.entry-title") %>%
   html_element("a")
 
 # Collect picture attributes
-rt_attrs <- html_attr(rt_articles, name = "href")
+novaresistencia_attrs <- html_attr(novaresistencia_articles, name = "href")
 
 # Create a DataFrame
-df_rt <- data.frame(rt_attrs)
-
-# Add text to each row: 'https://actualidad.rt.com'. Create a new column
-df_rt$rt_links <- paste0("https://actualidad.rt.com", df_rt$rt_attrs)
+df_novaresistencia <- data.frame(novaresistencia_attrs)
 
 # Save attrs
-write.csv(df_rt, "data/rt_articles.csv", fileEncoding = "UTF-8")
+write.csv(df_novaresistencia, "data/novaresistencia_articles.csv", fileEncoding = "UTF-8")
