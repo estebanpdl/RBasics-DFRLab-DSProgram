@@ -1,13 +1,22 @@
 # import modules
 # install.packages("xlsx")
+# install.packages("ini")
 library(dplyr)
 library(xlsx)
+library(ini)
 
 # read domains sample
 df <- read.csv('./data/websites/domains_sample.csv')
 urls <- df$link
 
-# Function -> CT links
+# read api key token
+config_file_path = "config/config.ini"
+config <- read.ini(filepath = config_file_path)
+
+# access the API token
+api_token <- config$`Crowdtangle API credentials`$ct_token
+
+# function -> CT links
 ct_get_links_httr <- function(query.string, sleep_time=10) {
   res <- tryCatch(
     {
@@ -84,7 +93,7 @@ for (i in 1:NROW(urls)) {
   platforms = 'facebook'
   startDate = '2023-03-28'
   endDate = '2023-04-13'
-  token = 'G7pgNEWNU6A6B2zRiz9pBPpj1JHLhlxAHZsAmwQe'
+  token = api_token
   count = 500
   
   endpoint.links <- "https://api.crowdtangle.com/links?"
